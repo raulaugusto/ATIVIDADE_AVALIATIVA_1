@@ -1,2 +1,3 @@
-### Passei o dia inteiro tentando consertar a build mas não consegui!
-Então se quiser testar o executável baixe o repositório inteiro como zip e execute o "atividade_matriz.exe" dentro da pasta.
+## Execução do prorama - Raul Augusto / 1221116663
+### Você pode baixar somente o executável(junto com a matriz) [Aqui!](https://github.com/raulaugusto/atividade_avaliativa_1/releases/tag/1.0)
+Ou usando o executável dentro da pasta principal do repositório depois de baixar como zip.
